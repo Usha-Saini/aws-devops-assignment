@@ -33,41 +33,18 @@ The objective of this assignment is to design, deploy, secure, monitor, and docu
 
 # Project Structure
 
+
 ```
 aws-devops-assignment/
 │
 ├── .github/
-│   └── workflows/
-│       └── deploy.yml
-│
-├── app/
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-│
 ├── architecture/
-│   └── architecture-diagram.png
-│
-├── screenshots/
-│   ├── ec2-instance.png
-│   ├── running-application.png
-│   ├── s3-bucket.png
-│   ├── iam-user.png
-│   ├── security-group.png
-│   ├── github-actions-success.png
-│   ├── cloudwatch-dashboard.png
-│   ├── cloudwatch-alarm.png
-│   ├── application-logs.png
-│   └── load-testing.png
-│
 ├── docs/
-│   ├── Deployment-Guide.pdf
-│   ├── Final-Report.pdf
-│   └── Security-Summary.pdf
-│
-└── README.md
-```
-
+├── screenshots/
+├── README.md
+├── server.js
+├── package.json
+├── package-lock.json
 ---
 
 # AWS Services Used
